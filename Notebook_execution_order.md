@@ -4,8 +4,8 @@ Regression.ipynb and Classification_Final.ipynb use the same file, cleaned2.1.cs
 
 #### Order:
 1. preprocess_flights_data.ipynb
-2. preprocess_weather_data.ipynb
-3. merging_weather_data.ipynb
-4. preprocessing_Final.ipnb
-5. Regression.ipynb
-6. Classification_Final.ipynb
+1. preprocess_weather_data.ipynb
+1. merging_weather_data.ipynb
+1. preprocessing_Final.ipnb
+1. Regression.ipynb
+1. Classification_Final.ipynb
